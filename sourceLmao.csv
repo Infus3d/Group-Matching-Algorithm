@@ -1,0 +1,31 @@
+,1,2,3,4,5,,,,,,,,,,,
+reimann,2,1,1,3,1,,,,,,,,,,,
+metaomgraph,1,0,1,0,0,,,,,,,,,,,
+visualizing modular chemistry software,1,0,2,1,1,,,,,,,,,,,
+embedded os,2,0,1,1,0,,,,,,,,,,,
+energize crowd,1,4,2,0,1,,,,,,,,,,,
+mobileapp/website,0,1,0,0,0,,,,,,,,,,,
+rapid-diagnostic tester,1,1,1,1,0,,,,,,,,,,,
+dsl for tensor algebra,0,2,1,1,2,,,,,,,,,,,
+automatic code generator,1,1,0,1,1,,,,,,,,,,,
+battery life,1,0,1,4,3,,,,,,,,,,,
+c# graphs,2,1,0,0,2,,,,,,,,,,,
+309 dashboard,1,2,3,0,1,,,,,,,,,,,
+309 project analysis,0,0,0,1,1,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,1,2,3,4,5,6,7,8,9,10,11,12,,group number,preference number
+,reimann,2,3,,,1,,4,,4,1,,4,reimann,5,1
+,metaomgraph,,1,,,3,,,,,,,,metaomgraph,2,1
+,visualizing modular chemistry software,,4,1,,,,,5,,3,,3,visualizing modular chemistry software,10,3
+,embedded os,,,,,,3,,4,1,,1,,embedded os,6,3
+,energize crowd,3,2,2,3,2,,1,2,,,5,,energize crowd,7,1
+,mobileapp/website,,,,2,,,,,,,,,mobileapp/website,4,2
+,rapid-diagnostic tester,,,,1,,,,,3,,4,,rapid-diagnostic tester,9,3
+,dsl for tensor algebra,,,,,5,2,,3,5,4,,2,dsl for tensor algebra,8,3
+,automatic code generator,,,4,,,1,,,2,5,,,automatic code generator,3,4
+,remaining battery life,4,5,5,4,4,4,5,,,,3,,remaining battery life,11,3
+,c# graphs,5,,,,,5,2,1,,,,1,c# graphs,12,1
+,309 dashboard,1,,3,,,,4,,,2,2,5,309 dashboard,1,1
+,309 project analysis,,,,5,,,,,,,,,309 project analysis,,
